@@ -1,0 +1,10 @@
+secure-file-sharing/
+├── app.py              # Main Flask application
+├── templates/
+│   └── index.html     # Single-page web interface
+├── static/
+│   └── style.css      # Stylesheet
+├── uploads/           # Temporary file storage
+├── encrypted_files/   # Encrypted file storage
+├── requirements.txt   # Python dependencies
+└── README.md         # Documentation
