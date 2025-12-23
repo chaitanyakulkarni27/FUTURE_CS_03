@@ -32,7 +32,7 @@ pip install -r requirements.txt   # If this is not working then use this: pip3 i
 ```
 4. Run the application:
 ```bash
-python app.py
+python app.py  # If this is not working then use this: python3 app.py
 ```
 5.Open your browser and navigate to:
 ```bash
