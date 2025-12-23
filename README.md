@@ -23,12 +23,12 @@ cd secure-file-sharing
 
 2. Create a virtual environment:
 ```bash
-python -m venv venv
+python -m venv venv  # If this is not working then use this: python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 3. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt   # If this is not working then use this: pip3 install -r requirements.txt
 ```
 4. Run the application:
 ```bash
